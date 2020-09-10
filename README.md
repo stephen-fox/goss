@@ -1,11 +1,11 @@
-# ossocket
+# goss
 
 [![GoDoc][godoc-badge]][godoc]
 
-[godoc-badge]: https://godoc.org/github.com/stephen-fox/ossockets?status.svg
-[godoc]: https://godoc.org/github.com/stephen-fox/ossockets
+[godoc-badge]: https://godoc.org/github.com/stephen-fox/goss?status.svg
+[godoc]: https://godoc.org/github.com/stephen-fox/goss
 
-Package ossocket abstracts operating system specific sockets into a small API.
+Package goss abstracts operating system specific sockets into a small API.
 It supports Unix sockets and Windows named pipes.
 
 ## Special thanks

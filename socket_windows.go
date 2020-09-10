@@ -1,4 +1,4 @@
-package ossocket
+package goss
 
 import (
 	"fmt"
